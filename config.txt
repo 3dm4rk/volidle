@@ -1,1 +1,8 @@
-{"idle_threshold": 30, "shutdown_delay": 30, "saved_volume": 50, "hide_on_startup": true}
+{
+    "idle_threshold": 30,
+    "shutdown_delay": 30,
+    "saved_volume": 50,
+    "hide_on_startup": false,
+    "idle_detector_enabled": true,
+    "volume_control_enabled": true
+}
